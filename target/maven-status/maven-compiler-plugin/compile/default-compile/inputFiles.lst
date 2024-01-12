@@ -1,3 +1,5 @@
 /home/denirjr/Projects/back-end/rest-with-spring-boot-and-java-erudio/src/main/java/br/com/erudio/Startup.java
-/home/denirjr/Projects/back-end/rest-with-spring-boot-and-java-erudio/src/main/java/br/com/erudio/Greeting.java
-/home/denirjr/Projects/back-end/rest-with-spring-boot-and-java-erudio/src/main/java/br/com/erudio/GreetingController.java
+/home/denirjr/Projects/back-end/rest-with-spring-boot-and-java-erudio/src/main/java/br/com/erudio/MathController.java
+/home/denirjr/Projects/back-end/rest-with-spring-boot-and-java-erudio/src/main/java/br/com/erudio/exceptions/ExceptionResponse.java
+/home/denirjr/Projects/back-end/rest-with-spring-boot-and-java-erudio/src/main/java/br/com/erudio/exceptions/UnsupportedMathOperationException.java
+/home/denirjr/Projects/back-end/rest-with-spring-boot-and-java-erudio/src/main/java/br/com/erudio/exceptions/handler/CustomizedResponseEntityExceptionHandler.java
